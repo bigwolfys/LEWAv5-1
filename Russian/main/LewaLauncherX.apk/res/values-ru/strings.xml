@@ -149,9 +149,5 @@
     <string name="uninstall_update_text">Вы хотите удалить обновление и вернуться на начальную версию приложения?</string>
     <string name="app_not_found_dlg_text">Приложение отсутствует в списке установленных</string>
     <string name="pref_keep_resident">Держать в памяти</string>
-<<<<<<< HEAD
     <string name="pref_summary_keep_resident">Не выгружать лаунчер из памяти</string>
-=======
-    <string name="pref_summary_keep_resident">Не выгружать лаунчер из памяти.</string>
->>>>>>> d88df369dae55655454ecca7bfc75e6ac511f442
 </resources>
