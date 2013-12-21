@@ -160,7 +160,7 @@
     <string name="lewa_time_picker_label_minute" />
     <string name="inadvertmode_title">Предотвращение нажатий</string>
     <string name="inadvertmode_tip_msg1">Не закрывайте верх экрана</string>
-    <string name="inadvertmode_force_quit">Для выхода нажмите Домой + Громкость вверх</string> 
+    <string name="inadvertmode_force_quit">Для выхода нажмите Вкл. + Громкость вверх</string> 
     <string name="translate">Перевод</string>
     <string name="add">добав.</string>
     <string name="call">Вызов</string>
