@@ -431,6 +431,9 @@
     <string name="curves_channel_red">Красный</string>
     <string name="curves_channel_green">Зеленый</string>
     <string name="curves_channel_blue">Синева</string>
+    <string name="save_edited_picture">Сохранить измененное изображение?</string>
+    <string name="memory_full_failed_save">Нет свободного места. Сохранить не удалось</string>
+    <string name="failed_to_save">Ошибка сохранения</string>
     <string name="dcim_album_path">DCIM/Camera</string>
     <string name="family_album_path">Pictures/family</string>
     <string name="friend_album_path">Pictures/friend</string>
