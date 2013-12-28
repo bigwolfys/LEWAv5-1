@@ -2390,7 +2390,7 @@
     <string name="lewa_account">Lewa аккаунт</string>
     <string name="dialog_already_registered">Вы уже вошли. Если вы хотите использовать другой ID, пожалуйста, выйдите сначала из активного аккаунта</string>
     <string name="haptic_feedback_enable_summary">Вибрация при нажатии экранных кнопок</string>
-    <string name="key_label">Кнонки</string>
+    <string name="key_label">Кнопки</string>
     <string name="keyboard_lights_title">Подсветка кнопок</string>
     <string name="keyboard_lights_summary">Включить подсветку кнопок</string>
     <string name="keyboard_auto_lights_title">Автоподсветка</string>
