@@ -357,7 +357,7 @@
     <string name="pref_settings_photo_sizes">Размер изображения</string>
     <string name="pref_settings_photo_snap_voice">Затвор беззвучно</string>
     <string name="pref_settings_photo_auto_focus">Автофокус</string>
-    <string name="pref_settings_photo_long_power_pressed">Затвор кнопки питания</string>
+    <string name="pref_settings_photo_long_power_pressed">Затвор клавиши питания</string>
     <string name="pref_settings_photo_voice_key_focus">Фокус голосовым ключом</string>
     <string name="pref_settings_photo_focus_notice">Звук фокуса</string>
     <string name="pref_settings_photo_grp_more_title">Еще</string>

@@ -105,7 +105,7 @@
     <string name="accessibility_home">Главная страница</string>
     <string name="accessibility_menu">Меню</string>
     <string name="accessibility_recent">Недавние приложения</string>
-    <string name="accessibility_ime_switch_button">Кнопка переключения способа ввода.</string>
+    <string name="accessibility_ime_switch_button">Кнопка переключения способа ввода</string>
     <string name="accessibility_compatibility_zoom_button">Кнопка масштабирования (режим совместимости)</string>
     <string name="accessibility_compatibility_zoom_example">Уменьшение изображения для увеличения свободного места на экране</string>
     <string name="accessibility_bluetooth_connected">Bluetooth-соединение установлено</string>
