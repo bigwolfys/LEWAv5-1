@@ -763,7 +763,7 @@
     <string name="add_vm_number_str">Добавить номер</string>
     <string name="reminder">Напоминание</string>
     <string name="enable_sip_dialog_message">Интернет-вызовы отключены, включить их?</string>
-    <string name="share_contacts_limit">Число контактов для совместного доступа не должно превышать 5000</string>
+    <string name="share_contacts_limit">Число контактов для совместного доступа не должно превышать 1000</string>
     <string name="contact_delete_all_tips">В фоновом режиме уже выполняется удаление контакта. Если вы хотите запустить удаление контакта снова, сначала отмените данную операцию.</string>
     <string name="move">Переместить</string>
     <string name="sum_search_networks">Поиск всех доступных сетей</string>
@@ -1587,5 +1587,9 @@
     <string name="import_from_sim_choose_account">Импорт контактов с SIM-карты под аккаунтом</string>
     <string name="export_to_sim_choose_account">Экспорт контактов с SIM-карты под аккаунтом</string>
     <string name="sim_has_no_data">Выбранная SIM-карта не имеет контактов</string>
+    <string name="storage_phone">Хранилище телефона</string>
+    <string name="storage_full_toast">Хранилище переполнено</string>
     <string name="group_member">Члены группы</string>
+    <string name="send_contact_info">Послать информацию о контакте</string>
+    <string name="no_visible_groups">У Вас нет видимых групп</string>
 </resources>

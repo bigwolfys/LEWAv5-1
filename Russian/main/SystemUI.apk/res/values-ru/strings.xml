@@ -165,7 +165,6 @@
     <string name="notifications_off_title">Уведомления отключены</string>
     <string name="notifications_off_text">Нажмите здесь, чтобы снова включить уведомления</string>
     <string name="accessibility_rotation_lock_off">Экран будет поворачиваться автоматически</string>
-    <string name="menu_actionbar_selected_items">%s выбрано</string>
     <string name="lewa_status_bar_settings_battery_meter_format">%d</string>
     <string name="status_bar_settings_battery_meter_min_format">%d</string>
     <string name="otg_to_filemanager">Нажмите для запуска файлового менеджера</string>
@@ -219,7 +218,6 @@
     <string name="recent_usedmem">Использовано:</string>
     <string name="usb_mode_notification">Режим USB-накопителя</string>
     <string name="trans_statusbar_setting">Прозрачная панель</string>
-    <string name="notifilter_header">СКРЫТЫЕ УВЕДОМЛЕНИЯ</string>
     <string name="poputip_title1">Это уведомление от</string>
     <string name="poputip_title2">Бан</string>
     <string name="poputip_title3">Все уведомления для этого приложения</string>
@@ -227,7 +225,6 @@
     <string name="poputip_toast">Забаненые уведомления %s</string>
     <string name="notifilter_setting">Фильтр уведомлений</string>
     <string name="notifilter_activity_title">Настройка фильтра уведомлений</string>
-    <string name="notifilter_tail">ОТОБРАЖАЕМЫЕ УВЕДОМЛЕНИЯ</string>
     <string name="power_battery_fulltitle">Заряд батареи</string>
     <string name="power_battery_full">Батарея полностью заряжена. Отключите зарядку</string>
     <string name="lockscreen_expanded">Блокировка экрана</string>
@@ -240,6 +237,8 @@
     <string name="notifilter_allow">Разрешить</string>
     <string name="notifilter_denie">Отказать</string>
     <string name="notifilter_item_activity">Менеджер уведомлений</string>
+    <string name="notifilter_cloudtip">"Умный Менеджер уведомлений перехватывает уведомления
+Последняя версия:"</string>
     <string name="notifilter_cloudloading">Идет загрузка онлайн-базы...</string>
     <string name="notifilter_cloudlasttime">Последнее обновление:</string>
     <string name="recent_meminfo">%1$dM/%2$dM</string>
@@ -263,4 +262,7 @@
     <string name="halo_signal_bars_1">1 ПОЛОСКА</string>
     <string name="halo_signal_bars_none">НЕТ ПОЛОСОК</string>
     <string name="trans_statusbar_key">trans_statusbar_key</string>
+    <string name="notifilter_header">СКРЫТЫЕ УВЕДОМЛЕНИЯ</string>
+    <string name="notifilter_tail">ОТОБРАЖАЕМЫЕ УВЕДОМЛЕНИЯ</string>
+    <string name="menu_actionbar_selected_items">%s выбрано</string>
 </resources>

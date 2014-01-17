@@ -118,4 +118,10 @@
     <string name="menu_actionbar_selected_items">%s выбрано</string>
     <string name="menu_multichoice_select_all">Выбрать все</string>
     <string name="menu_multichoice_clear_select">Снять выделение</string>
+    <string name="airplane_mode_on">Режим полета включен, Вы не можете использовать радио</string>
+    <string name="correct">ОК</string>
+    <string name="error">Ошибка</string>
+    <string name="toast_earphone_plug_in">наушники подключены</string>
+    <string name="toast_earphone_plug_out">наушники отсоединены</string>
+    <string name="toast_noantenna_text">Наушники не подключены!</string>
 </resources>
