@@ -237,8 +237,8 @@
     <string name="notifilter_allow">Разрешить</string>
     <string name="notifilter_denie">Отказать</string>
     <string name="notifilter_item_activity">Менеджер уведомлений</string>
-    <string name="notifilter_cloudtip">"Умный Менеджер уведомлений перехватывает уведомления
-Последняя версия:"</string>
+    <string name="notifilter_cloudtip">"Перехват назойливых уведомлений
+Версия:"</string>
     <string name="notifilter_cloudloading">Идет загрузка онлайн-базы...</string>
     <string name="notifilter_cloudlasttime">Последнее обновление:</string>
     <string name="recent_meminfo">%1$dM/%2$dM</string>
