@@ -69,6 +69,7 @@
     <string name="visibility_unit"> км</string>
     <string name="no_more_city_add">Нельзя добавить больше городов</string>
     <string name="fields_add_fail">Только четыре</string>
+    <string name="latest">Последние данные</string>
     <string name="fields_add_success">“%s”наверх</string>
     <string name="cancel">Отмена</string>
     <string name="jintian">Сегодня</string>

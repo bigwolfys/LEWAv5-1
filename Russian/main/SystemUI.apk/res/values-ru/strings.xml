@@ -262,7 +262,11 @@
     <string name="halo_signal_bars_1">1 ПОЛОСКА</string>
     <string name="halo_signal_bars_none">НЕТ ПОЛОСОК</string>
     <string name="trans_statusbar_key">trans_statusbar_key</string>
+    <string name="menu_actionbar_selected_items">%s выбрано</string>
+    <string name="reboot_now_confirm">Да</string>
+    <string name="reboot_later_confirm">Нет</string>
+    <string name="reboot">Перезагрузка</string>
+    <string name="reboot_message">Требуется перезагрузка</string>
     <string name="notifilter_header">СКРЫТЫЕ УВЕДОМЛЕНИЯ</string>
     <string name="notifilter_tail">ОТОБРАЖАЕМЫЕ УВЕДОМЛЕНИЯ</string>
-    <string name="menu_actionbar_selected_items">%s выбрано</string>
 </resources>

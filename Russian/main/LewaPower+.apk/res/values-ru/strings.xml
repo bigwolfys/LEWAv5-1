@@ -69,7 +69,7 @@
     <string name="spm_mode_choice_normal_toast">Включение нормального режима, передача данных будет включена</string>
     <string name="spm_mode_choice_standy_by_toast">"Вкл. энергосбережения. "</string>
     <string name="spm_mode_choice_exit_standy_by_toast">Выкл. энергосбережения</string>
-    <string name="spm_mode_choice_alarm_toast">Вкл. режима Alarm,</string>
+    <string name="spm_mode_choice_alarm_toast">Вкл. режима будильника,</string>
     <string name="sp_bedtime_dialog_start_title">Установить время начала</string>
     <string name="sp_bedtime_dialog_end_title">Установите время окончания</string>
     <string name="sp_btn_finish">Калибровка завершена</string>
@@ -107,7 +107,7 @@
     <string name="spm_in_the_time_message">Вы хотите сейчас включить Режим энергосбережения?</string>
     <string name="spm_out_the_time_title">Изменить</string>
     <string name="spm_out_the_time_message">Запланированное время изменено, вы хотите выйти из режима энергосбережения?</string>
-    <string name="spm_custom_settings_tip">Настройки режимов энергосбережения телефона</string>
+    <string name="spm_custom_settings_tip">Настройки режимов энергосбережения</string>
     <string name="spm_custom_settings_openning_title">Включить в режиме энергосбережения</string>
     <string name="spm_custom_settings_closing_title">Выключить в режиме энергосбережения</string>
     <string name="spm_custom_settings_setting_max_title">Установить максимум в режиме энергосбережения</string>

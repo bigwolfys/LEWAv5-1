@@ -2535,6 +2535,7 @@
     <string name="notification_led_freq_title">Частота мигания уведомлений</string>
     <string name="incoming_call_led_freq_title">Частота мигания входящего вызова</string>
     <string name="mms_led_freq_title">Частота мигания SMS</string>
+    <string name="activity_rounded_corner_title">Показывать скругленные углы</string>
     <string name="day">1 день</string>
     <string name="days">" %s дн."</string>
     <string name="hour">1 час</string>

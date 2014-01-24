@@ -132,4 +132,5 @@
     <string name="repeat_count_custom">польз.</string>
     <string name="current_time">Текущее время:</string>
     <string name="set_timezone">Настройки</string>
+    <string name="please_select_one_more_citys">Выберите хотя бы один город</string>
 </resources>
