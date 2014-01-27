@@ -15,7 +15,7 @@
     <string name="edit_playlist_success_toast_text">%1$d песен добавлено в %2$s</string>
     <string name="remove_playlistsong_success_toast_text">%1$d песен удалено из %2$s</string>
     <string name="check_song_number">%1$d выбрано</string>
-    <string name="btn_show_all_albums_text">Весб альбом</string>
+    <string name="btn_show_all_albums_text">Весь альбом</string>
     <string name="title_cover_dialog">Обложка плейлиста</string>
     <string name="common_msg_nosdcard">SD-карта не найдена</string>
     <string name="common_msg_get_photo_failure">Не удалось получить изображение</string>
