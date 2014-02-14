@@ -383,14 +383,14 @@
     <string name="pref_settings_flit_title">Фильтр</string>
     <string name="self_num_0">0</string>
     <string name="pref_settings_video_title">Настройки</string>
-    <string name="pref_settings_weather_title">Погода Lewa</string>
+    <string name="pref_settings_weather_title">Погода</string>
     <string name="pref_settings_weather_none_data">Нет данных</string>
     <string name="pref_settings_close">Закрыть</string>
-    <string name="none_weather_data_tip">Нет данных о погоде. Пожалуйста, откройте приложение Погода Lewa для ее обновления!</string>
+    <string name="none_weather_data_tip">Нет данных о погоде</string>
     <string name="insta_weather_air_quality">PM:</string>
     <string name="location_country_cn">Китай</string>
     <string name="photo_card_index">" / "</string>
-    <string name="pref_settings_revision_title">Наладка</string>
+    <string name="pref_settings_revision_title">Парам...</string>
     <string name="default_albums_parent_path">/LeWa/Gallery/</string>
     <string name="title_activity_filter_show">Графический редактор</string>
     <string name="cannot_load_image">Не удалось загрузить изображение</string>
