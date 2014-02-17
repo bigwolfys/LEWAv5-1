@@ -215,8 +215,8 @@
     <string name="panorama_mode_name">Режим Панорамы</string>
     <string name="photo_mode_name">Режим Фото</string>
     <string name="video_mode_name">Режим Видео</string>
-    <string name="gesture_tip">Слайдинг может переключать различные режимы</string>
-    <string name="fan_edit_tip">Потяните миниатюру вверх для редактирования фото</string>
+    <string name="gesture_tip">Слайдинг может переключать режимы съемки</string>
+    <string name="fan_edit_tip">Для выбора фото потяните миниатюру вверх</string>
     <string name="close_settings_weather_title">Закрыть Погоду</string>
     <string name="close_settings_self_timer_title">Закрыть Таймер</string>
     <string name="delete_success">Удалено успешно</string>
