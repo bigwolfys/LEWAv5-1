@@ -407,7 +407,7 @@
     <string name="mtk_datausage_overview_mobile_title">МОБИЛЬНЫЙ</string>
     <string name="mtk_datausage_overview_mobile_usage" formatted="false">%s из %s</string>
     <string name="mtk_datausage_overview_mobile_usage_warning">Недопуст.: %s</string>
-    <string name="display_personalize">Персонификация</string>
+    <string name="display_personalize">Персонализация</string>
     <string name="display_default">Экран</string>
     <string name="sound_enhancement_title">Улучшение звука</string>
     <string name="music_plus_title">BesAudEnh</string>
